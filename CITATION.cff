@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this atlas, please cite it as below, and cite the paper when it is published."
+title: "road-risk-atlas-spain: interactive atlas of road crash risk in Spain"
+type: software
+authors:
+  - family-names: "Méndez"
+    given-names: "Manuel"
+    affiliation: "Design and Testing of Reliable Systems Research Group, Complutense University of Madrid"
+repository-code: "https://github.com/MMH1997/road-risk-atlas-spain"
+url: "https://mmh1997.github.io/road-risk-atlas-spain/"
+license: MIT
+abstract: "Interactive atlas of road crash risk in Spain (provinces and 10 x 10 km areas), 2022-2025, built from DGT crash microdata. Spanish and English."
+keywords:
+  - road safety
+  - hot spots
+  - Spain
