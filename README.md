@@ -38,10 +38,10 @@ The estimates come from the paper that accompanies this page and are not officia
 
 ## Authors
 
-Manuel Méndez, Mercedes G. Merayo and Manuel Núñez. Design and Testing of Reliable Systems Research Group, Complutense University of Madrid.
+Manuel Méndez, Design and Testing of Reliable Systems Research Group, Complutense University of Madrid.
 
-Research partially supported by the State Research Agency (AEI) of the Spanish Ministry of Science and Innovation under grants PID2021-122215NB-C31 and PID2021-122215NB-C32 (AwESOMe), and by the Comunidad de Madrid under grant TEC-2024/COM-235 (DESAFíO-CM).
+This work was supported by the State Research Agency (AEI) of the Spanish Ministry of Science and Innovation under grant PID2025-168053OB-I00 (NEXUS), and by the Comunidad de Madrid under grant TEC-2024/COM-235 (DESAFíO-CM).
 
 ## License
 
-To be decided. Until then, all rights are reserved by the authors.
+MIT, © 2026 Manuel Méndez ([`LICENSE`](LICENSE)): the copyright notice must be kept, and a citation is requested; GitHub's "Cite this repository" button gives the format ([`CITATION.cff`](CITATION.cff)). Third-party data keep their own terms (see Sources).
